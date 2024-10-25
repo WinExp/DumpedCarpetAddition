@@ -28,6 +28,6 @@
     "fabricloader": ">=${loader_version}",
     "fabric": "*",
     "carpet": "*",
-    "minecraft": "${minecraft_version}"
+    "minecraft": ">=1.21 <1.22"
   }
 }
