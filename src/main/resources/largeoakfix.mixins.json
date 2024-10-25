@@ -1,9 +1,10 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "com.github.winexp.largeoakfix.mixin",
+  "package": "com.github.winexp.largeoakfix.mixins",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
+    "largeOakGenerationFix.LargeOakTrunkPlacerMixin"
   ],
   "injectors": {
     "defaultRequire": 1

@@ -11,10 +11,10 @@
   "environment": "*",
   "entrypoints": {
     "client": [
-      "com.github.winexp.largeoakfix.client.LargeoakfixClient"
+      "com.github.winexp.largeoakfix.client.LargeOakFixClient"
     ],
     "main": [
-      "com.github.winexp.largeoakfix.Largeoakfix"
+      "com.github.winexp.largeoakfix.LargeOakFix"
     ]
   },
   "mixins": [
@@ -27,6 +27,7 @@
   "depends": {
     "fabricloader": ">=${loader_version}",
     "fabric": "*",
+    "carpet": "*",
     "minecraft": "${minecraft_version}"
   }
 }
