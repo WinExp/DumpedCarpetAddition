@@ -1,4 +1,4 @@
-package com.github.winexp.largeoakfix.mixins;
+package com.github.winexp.largeoakfix.mixins.largeOakGenerationFix;
 
 import com.github.winexp.largeoakfix.carpet.ModSettings;
 import com.llamalad7.mixinextras.sugar.Local;
