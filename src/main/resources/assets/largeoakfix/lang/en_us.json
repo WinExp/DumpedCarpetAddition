@@ -1,0 +1,7 @@
+{
+  "wca.category.wca": "WCA",
+  "wca.category.bugfix": "Bugfix",
+
+  "wca.rule.largeOakGenerationFix.name": "Fix large oak(fancy_oak) branch generation bug",
+  "wca.rule.largeOakGenerationFix.desc": "Fixed a bug that caused branch growth to ignore the height limit when large oaks were generated at y<0."
+}

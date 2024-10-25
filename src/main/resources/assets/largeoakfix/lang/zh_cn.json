@@ -1,0 +1,7 @@
+{
+  "wca.category.wca": "WCA",
+  "wca.category.bugfix": "漏洞修复",
+
+  "wca.rule.largeOakGenerationFix.name": "修复大型橡树侧枝生成错误",
+  "wca.rule.largeOakGenerationFix.desc": "修复了当大型橡树生成于y<0时，可能出现侧枝生长无视限高的错误。"
+}
