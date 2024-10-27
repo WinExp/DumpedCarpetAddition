@@ -3,7 +3,7 @@
   "id": "largeoakfix",
   "version": "${version}",
   "name": "LargeOakFix",
-  "description": "",
+  "description": "A Carpet extension that fixes large oak(fancy_oak) generation.",
   "authors": [],
   "contact": {},
   "license": "LGPL-3.0",
