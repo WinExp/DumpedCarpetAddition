@@ -4,8 +4,7 @@
   "package": "com.github.winexp.dumpedcarpetaddition.mixins",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "largeOakGenerationFix.LargeOakTrunkPlacerMixin",
-    "largeOakGenerationFix.TripwireHookBlockMixin"
+    "largeOakGenerationFix.LargeOakTrunkPlacerMixin"
   ],
   "injectors": {
     "defaultRequire": 1

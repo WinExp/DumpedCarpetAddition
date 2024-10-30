@@ -1,10 +1,7 @@
 {
   "dca.category.experimental": "实验性",
   "dca.category.bugfix": "漏洞修复",
-  "dca.category.feature": "特性",
 
   "dca.rule.largeOakGenerationFix.name": "修复大型橡树侧枝生成错误",
-  "dca.rule.largeOakGenerationFix.desc": "修复了 MC-258302：橡树侧枝生长行为在y值为负时不一致。",
-  "dca.rule.stringDuperReintroduced.name": "重新引入刷线机",
-  "dca.rule.stringDuperReintroduced.desc": "重新引入 MC-59471：线可由绊线钩复制。"
+  "dca.rule.largeOakGenerationFix.desc": "修复了 MC-258302：橡树侧枝生长行为在y值为负时不一致。"
 }
