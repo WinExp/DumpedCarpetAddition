@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "id": "largeoakfix",
+  "id": "dca",
   "version": "${version}",
-  "name": "LargeOakFix",
-  "description": "A Carpet extension that fixes large oak(fancy_oak) generation.",
+  "name": "Dumped Carpet Addition",
+  "description": "A Carpet extension that adds some interesting features.",
   "authors": [
     "WinExp"
   ],
   "contact": {},
   "license": "LGPL-3.0",
-  "icon": "assets/largeoakfix/icon.png",
+  "icon": "assets/dca/icon.png",
   "environment": "*",
   "entrypoints": {
     "client": [
-      "com.github.winexp.largeoakfix.client.LargeOakFixClient"
+      "com.github.winexp.dumpedcarpetaddition.client.DumpedCarpetAddition"
     ],
     "main": [
-      "com.github.winexp.largeoakfix.LargeOakFix"
+      "com.github.winexp.dumpedcarpetaddition.DumpedCarpetAddition"
     ]
   },
   "mixins": [
-    "largeoakfix.mixins.json",
+    "dca.mixins.json",
     {
-      "config": "largeoakfix.client.mixins.json",
+      "config": "dca.client.mixins.json",
       "environment": "client"
     }
   ],

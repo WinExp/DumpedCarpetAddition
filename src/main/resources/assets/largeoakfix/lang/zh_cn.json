@@ -1,4 +1,0 @@
-{
-  "carpet.rule.largeOakGenerationFix.name": "修复大型橡树侧枝生成错误",
-  "carpet.rule.largeOakGenerationFix.desc": "修复了 MC-258302：橡树侧枝生长行为在y值为负时不一致。"
-}

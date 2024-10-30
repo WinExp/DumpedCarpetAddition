@@ -1,11 +1,12 @@
-package com.github.winexp.largeoakfix;
+package com.github.winexp.dumpedcarpetaddition;
 
-import com.github.winexp.largeoakfix.carpet.CarpetExtensionImpl;
+import com.github.winexp.dumpedcarpetaddition.carpet.CarpetExtensionImpl;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.loader.api.FabricLoader;
 
-public class LargeOakFix implements ModInitializer {
-    public static final String MOD_ID = "largeoakfix";
+public class DumpedCarpetAddition implements ModInitializer {
+    public static final String MOD_ID = "dca";
+    public static final String MOD_NAME = "Dumped Carpet Addition";
     public static String VERSION;
 
     @Override

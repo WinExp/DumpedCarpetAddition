@@ -1,0 +1,10 @@
+{
+  "dca.category.experimental": "Experimental",
+  "dca.category.bugfix": "Bugfix",
+  "dca.category.feature": "Feature",
+
+  "dca.rule.largeOakGenerationFix.name": "Fix large oak(fancy_oak) branch generation bug",
+  "dca.rule.largeOakGenerationFix.desc": "Fixed MC-258302: Oak branch growth inconsistent in negative y values.",
+  "dca.rule.stringDuperReintroduced.name": "Reintroduced String Duper",
+  "dca.rule.stringDuperReintroduced.desc": "Reintroduced MC-59471：String can be duplicated using tripwire hooks."
+}

@@ -1,4 +1,0 @@
-{
-  "carpet.rule.largeOakGenerationFix.name": "Fix large oak(fancy_oak) branch generation bug",
-  "carpet.rule.largeOakGenerationFix.desc": "Fixed MC-258302: Oak branch growth inconsistent in negative y values."
-}

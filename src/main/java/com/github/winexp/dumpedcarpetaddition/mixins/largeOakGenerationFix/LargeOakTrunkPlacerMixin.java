@@ -1,6 +1,6 @@
-package com.github.winexp.largeoakfix.mixins.largeOakGenerationFix;
+package com.github.winexp.dumpedcarpetaddition.mixins.largeOakGenerationFix;
 
-import com.github.winexp.largeoakfix.carpet.ModSettings;
+import com.github.winexp.dumpedcarpetaddition.carpet.ModSettings;
 import com.llamalad7.mixinextras.sugar.Local;
 import net.minecraft.util.math.MathHelper;
 import net.minecraft.world.gen.trunk.LargeOakTrunkPlacer;
