@@ -7,8 +7,11 @@
   "authors": [
     "WinExp"
   ],
-  "contact": {},
-  "license": "LGPL-3.0",
+  "contact": {
+    "issues": "https://github.com/WinExp/DumpedCarpetAddition/issues",
+    "sources": "https://github.com/WinExp/DumpedCarpetAddition/"
+  },
+  "license": "GPL-3.0",
   "icon": "assets/dca/icon.png",
   "environment": "*",
   "entrypoints": {
